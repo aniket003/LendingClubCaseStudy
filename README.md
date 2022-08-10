@@ -25,6 +25,13 @@
 4. matplotlib library for graph plots
 
 ## Conclusions
+1. Lending club should reduce the high interest loans for 60 months term, they are more prone to loan default. 
+2. Borrowers for small business loans are defaulted the most , Lending club should reduce issuing the loans to them. 
+3. Lending club should not lend large amount loans at high interest rate  to people with low annual income .
+4. Lending club should reduce number of loans approved for lower DTI ( dept-to-income ratio) 
+5. Highest number of defaulters have verification status "Not-verified“ but the percentage is highest for "verified" indicating a major flaw in verification process .
+
+A Detailed Analysis and recommendations are including in the pdf attached
 
 
 ## Contributors:
