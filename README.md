@@ -4,10 +4,10 @@
 ### The case study focuses on EDA mainly, to understand which major parameters to detect whether a customer will default loan or not. 
 
 ## Table Contents
-Analysing Methodology
-Technologies Used
-Conslusions
-Contributors
+- Analysing Methodology
+- Technologies Used
+- Conslusions
+- Contributors
 
 
 ## Analysing Methodology
